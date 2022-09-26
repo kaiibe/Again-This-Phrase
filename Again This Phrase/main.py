@@ -1,3 +1,7 @@
+# IMPORTANT !!!
+# Before running a program, please install a dependency by pasting this line into your IDE terminal 'pip install youtube_transcript_api'
+
+
 from youtube_transcript_api import YouTubeTranscriptApi as YTA
 
 
